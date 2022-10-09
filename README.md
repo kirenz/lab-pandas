@@ -1,4 +1,4 @@
-# Pandas
+# Important notes
 
 - You can complete this exercise in 1) Colab or 2) on your local machine
   1. **Colab**: When you finished the exercise, download the file: `File` > `Download` > `ipynb` and place it in the correct folder. 
