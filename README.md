@@ -1,6 +1,6 @@
 # Important notes
 
-- You can complete this exercise in 1) Colab or 2) on your local machine
+- You can complete this exercise in i) Colab or ii) on your local machine
   1. **Colab**: When you finished the exercise, download the file: `File` > `Download` > `ipynb`
   2. **Local**: Activate the appropriate conda environment before you start.
 
